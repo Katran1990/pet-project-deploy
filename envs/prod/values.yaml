@@ -1,10 +1,10 @@
 # prod environment. The `tag` fields are rewritten by CI after every merge
 # into `main`; everything else you edit by hand.
 backend:
-  tag: main
+  tag: 738a4d4
   replicas: 2
 frontend:
-  tag: main
+  tag: 738a4d4
 ingress:
   host: pet.local
 postgres:
