@@ -1,8 +1,8 @@
 # dev environment. The `tag` fields are rewritten by CI after every merge
 # into `development`; everything else you edit by hand.
 backend:
-  tag: ca1016c
+  tag: 84f5483
 frontend:
-  tag: ca1016c
+  tag: 84f5483
 ingress:
   host: dev.pet.local
